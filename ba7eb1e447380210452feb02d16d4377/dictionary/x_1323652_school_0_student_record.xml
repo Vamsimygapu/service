@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c3bef5e447380210452feb02d16d4374" label="Student Record" max_length="40" name="x_1323652_school_0_student_record" type="collection">
+        <element label="DOB" max_length="40" name="dob" type="glide_date"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
